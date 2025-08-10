@@ -1,0 +1,453 @@
+[
+  {
+    "name": "Vithal Kamats Family Restaurent",
+    "address": "N H No 48 Manor, Palghar",
+    "rating": "3.7",
+    "reviews": "2,964 Ratings",
+    "contact": [
+      "08904982775"
+    ]
+  },
+  {
+    "name": "Hot & Spicy Gomantak Hotel",
+    "address": "10th Khetwadi Girgaon, Mumbai",
+    "rating": "3.3",
+    "reviews": "1,032 Ratings",
+    "contact": [
+      "09972416689"
+    ]
+  },
+  {
+    "name": "Sanaya Dhaba",
+    "address": "Mira Road East, Thane",
+    "rating": "4.7",
+    "reviews": "8,851 Ratings",
+    "contact": [
+      "08460396893"
+    ]
+  },
+  {
+    "name": "Yasin's Food Inn",
+    "address": "Lokhandwala Complex-andheri West, Mumbai",
+    "rating": "4.0",
+    "reviews": "15,976 Ratings",
+    "contact": [
+      "09035264703"
+    ]
+  },
+  {
+    "name": "Chill Out Veg Family Restaurant",
+    "address": "Amritwani Road Bhayandar West, Thane",
+    "rating": "4.0",
+    "reviews": "126 Ratings",
+    "contact": [
+      "08401477676"
+    ]
+  },
+  {
+    "name": "KGS Chinese Fast Food Joint",
+    "address": "Sector 21 Nerul, Navi Mumbai",
+    "rating": "4.0",
+    "reviews": "2,721 Ratings",
+    "contact": [
+      "07947126681"
+    ]
+  },
+  {
+    "name": "The Vibe",
+    "address": "Birla College Road Kalyan West, Kalyan",
+    "rating": "4.1",
+    "reviews": "2,050 Ratings",
+    "contact": [
+      "07947417203"
+    ]
+  },
+  {
+    "name": "Amma's Restaurant",
+    "address": "Chincholi Bunder-malad West, Mumbai",
+    "rating": "3.9",
+    "reviews": "1,396 Ratings",
+    "contact": [
+      "07947113607"
+    ]
+  },
+  {
+    "name": "Shagun Pure Veg",
+    "address": "Sector 1 Kalamboli, Navi Mumbai",
+    "rating": "4.3",
+    "reviews": "1,263 Ratings",
+    "contact": [
+      "09845206951"
+    ]
+  },
+  {
+    "name": "Afzal Mao Restaurant",
+    "address": "Carnac Road Masjid Bunder, Mumbai",
+    "rating": "4.1",
+    "reviews": "469 Ratings",
+    "contact": [
+      "09972349574"
+    ]
+  },
+  {
+    "name": "Hotel Star Cafe",
+    "address": "Mumbai Nashik Highway Kasara, Thane",
+    "rating": "3.7",
+    "reviews": "682 Ratings",
+    "contact": [
+      "09972219574"
+    ]
+  },
+  {
+    "name": "Cafe Safar Family Restaurant",
+    "address": "Oshiwara Link Road Andheri West, Mumbai",
+    "rating": "4.2",
+    "reviews": "9,007 Ratings",
+    "contact": [
+      "09845238032"
+    ]
+  },
+  {
+    "name": "Durga Vihar Fast Food and Restaurant",
+    "address": "Naupada-Thane West, Thane",
+    "rating": "4.3",
+    "reviews": "2,149 Ratings",
+    "contact": [
+      "09731812647"
+    ]
+  },
+  {
+    "name": "Afzal's Mao Family Restaurant",
+    "address": "Shivdas Champsi Marg Mazgaon, Mumbai",
+    "rating": "4.1",
+    "reviews": "15,488 Ratings",
+    "contact": [
+      "09036652962"
+    ]
+  },
+  {
+    "name": "Hotel Swagath Park Family Resto Bar",
+    "address": "Kahler Road Bhiwandi City, Bhiwandi",
+    "rating": "4.0",
+    "reviews": "122 Ratings",
+    "contact": [
+      "09035207324"
+    ]
+  },
+  {
+    "name": "Shabari Pure Veg Restaurant",
+    "address": "Bamanpuri Road Andheri East, Mumbai",
+    "rating": "4.0",
+    "reviews": "1,196 Ratings",
+    "contact": [
+      "09035756830"
+    ]
+  },
+  {
+    "name": "Tuba Restaurant",
+    "address": "Rani Sati Marg Malad East, Mumbai",
+    "rating": "3.9",
+    "reviews": "631 Ratings",
+    "contact": [
+      "09972851094"
+    ]
+  },
+  {
+    "name": "Cafe Bharat",
+    "address": "J M ROAD Bhandup West, Mumbai",
+    "rating": "3.9",
+    "reviews": "1,291 Ratings",
+    "contact": [
+      "09845248932"
+    ]
+  },
+  {
+    "name": "Sai Dhaba Family Garden and Restaurant",
+    "address": "Nashik Highway Bhiwandi City, Bhiwandi",
+    "rating": "3.8",
+    "reviews": "303 Ratings",
+    "contact": [
+      "09845248906"
+    ]
+  },
+  {
+    "name": "Mimi Cafe & Bistro",
+    "address": "Birla College Road Kalyan West, Kalyan",
+    "rating": "4.3",
+    "reviews": "414 Ratings",
+    "contact": [
+      "08460412979"
+    ]
+  },
+  {
+    "name": "Star Planet Delight Dining & Bar",
+    "address": "Bypass Road Virar West, Palghar",
+    "rating": "4.1",
+    "reviews": "3,401 Ratings",
+    "contact": [
+      "09845258007"
+    ]
+  },
+  {
+    "name": "Hotell Ahura",
+    "address": "Ahmdabad Highway Dhundalwadi, Talasari",
+    "rating": "4.8",
+    "reviews": "589 Ratings",
+    "contact": [
+      "09725508922"
+    ]
+  },
+  {
+    "name": "Greenland Hotel",
+    "address": "Nasik Road Bhiwandi City, Bhiwandi",
+    "rating": "4.1",
+    "reviews": "2,787 Ratings",
+    "contact": [
+      "07947135930"
+    ]
+  },
+  {
+    "name": "Mao Family Restaurant",
+    "address": "Road Mahin West Mahim, Mumbai",
+    "rating": "3.7",
+    "reviews": "1,446 Ratings",
+    "contact": [
+      "09972263960"
+    ]
+  },
+  {
+    "name": "Aditya Fine Dine",
+    "address": "Railway Station Vasai East, Palghar",
+    "rating": "3.9",
+    "reviews": "108 Ratings",
+    "contact": [
+      "07947421580"
+    ]
+  },
+  {
+    "name": "Nawabi Zaika",
+    "address": "Shanti Park Road Mira Road East, Thane",
+    "rating": "3.8",
+    "reviews": "169 Ratings",
+    "contact": [
+      "07947142758"
+    ]
+  },
+  {
+    "name": "Tisai Family Restaurant",
+    "address": "Datiwali Road Diva, Thane",
+    "rating": "4.8",
+    "reviews": "250 Ratings",
+    "contact": [
+      "09054058614"
+    ]
+  },
+  {
+    "name": "Vanakkam Hotel",
+    "address": "Ghodhbunder Road Thane West, Thane",
+    "rating": "4.2",
+    "reviews": "2,989 Ratings",
+    "contact": [
+      "07947417373"
+    ]
+  },
+  {
+    "name": "Rolex Hotel",
+    "address": "Avachit Pada Bhiwandi City, Bhiwandi",
+    "rating": "4.0",
+    "reviews": "1,839 Ratings",
+    "contact": [
+      "07947107530"
+    ]
+  },
+  {
+    "name": "Whitefield Family Restaurant & Bar",
+    "address": "Pali Naigaon West, Palghar",
+    "rating": "3.5",
+    "reviews": "205 Ratings",
+    "contact": [
+      "08511229368"
+    ]
+  },
+  {
+    "name": "Raju's Kitchen - Veg Restaurant",
+    "address": "Kakaji Nagar Goregaon West, Mumbai",
+    "rating": "4.7",
+    "reviews": "162 Ratings",
+    "contact": [
+      "09054898209"
+    ]
+  },
+  {
+    "name": "Abu Yusuf Hotel",
+    "address": "Tagore Nagar Road Vikhroli East, Mumbai",
+    "rating": "4.4",
+    "reviews": "8 Ratings",
+    "contact": [
+      "09731962240"
+    ]
+  },
+  {
+    "name": "Foodway Family Restaurant",
+    "address": "L B S Marg Bhandup West, Mumbai",
+    "rating": "4.3",
+    "reviews": "4,506 Ratings",
+    "contact": [
+      "09972241293"
+    ]
+  },
+  {
+    "name": "Nanumal Bhojraj",
+    "address": "J B Road Parel, Mumbai",
+    "rating": "4.0",
+    "reviews": "945 Ratings",
+    "contact": [
+      "07947119905"
+    ]
+  },
+  {
+    "name": "New Ajwa Family Restaurant",
+    "address": "Kharghar Sector 7, Navi Mumbai",
+    "rating": "4.0",
+    "reviews": "607 Ratings",
+    "contact": [
+      "08197498227"
+    ]
+  },
+  {
+    "name": "Le Gateau",
+    "address": "Cholegaon Thakurli, Thane",
+    "rating": "3.6",
+    "reviews": "21 Ratings",
+    "contact": [
+      "07942699332"
+    ]
+  },
+  {
+    "name": "Taste Of Kerala",
+    "address": "Janmabhoomi Marg Fort, Mumbai",
+    "rating": "4.1",
+    "reviews": "1,812 Ratings",
+    "contact": [
+      "07490081278"
+    ]
+  },
+  {
+    "name": "Kake Da Dhaba",
+    "address": "Sector 17 Ulwe, Navi Mumbai",
+    "rating": "3.6",
+    "reviews": "149 Ratings",
+    "contact": [
+      "07947105218"
+    ]
+  },
+  {
+    "name": "Strawberry Restaurant (Wine N Dine)",
+    "address": "Opp.Mary Gold 2 Mira Road East, Thane",
+    "rating": "4.3",
+    "reviews": "59 Ratings",
+    "contact": [
+      "08460259235"
+    ]
+  },
+  {
+    "name": "Annaleela Veg Wonders",
+    "address": "Belasis Road Mumbai Central, Mumbai",
+    "rating": "3.9",
+    "reviews": "1,242 Ratings",
+    "contact": [
+      "08460299336"
+    ]
+  },
+  {
+    "name": "Acharekars Malvan Katta",
+    "address": "D L Vaidya Road Dadar West, Mumbai",
+    "rating": "4.1",
+    "reviews": "1,276 Ratings",
+    "contact": [
+      "09845218600"
+    ]
+  },
+  {
+    "name": "Hotel Stars Parade",
+    "address": "R C Marg Chembur East, Mumbai",
+    "rating": "4.2",
+    "reviews": "3,054 Ratings",
+    "contact": [
+      "07947413374"
+    ]
+  },
+  {
+    "name": "New Ajwa Family Restaurant",
+    "address": "Sector 9E Kalamboli, Navi Mumbai",
+    "rating": "4.0",
+    "reviews": "769 Ratings",
+    "contact": [
+      "08904968297"
+    ]
+  },
+  {
+    "name": "Sahil Hotel",
+    "address": "New Gauri Pada Bhiwandi City, Bhiwandi",
+    "rating": "3.8",
+    "reviews": "1,363 Ratings",
+    "contact": [
+      "08460303241"
+    ]
+  },
+  {
+    "name": "Diamond Foodway",
+    "address": "Nasik Highway No 3 Asangaon, Thane",
+    "rating": "3.9",
+    "reviews": "10,178 Ratings",
+    "contact": [
+      "09845258035"
+    ]
+  },
+  {
+    "name": "Shanaya Zaika Restaurant",
+    "address": "Veera Desai Road Jogeshwari West, Mumbai",
+    "rating": "5.0",
+    "reviews": "1 Ratings",
+    "contact": [
+      "07041635488"
+    ]
+  },
+  {
+    "name": "Adarsh Veg & Non Veg Family Restaurant",
+    "address": "Kannamwar Nagar No 2-Vikhroli East, Mumbai",
+    "rating": "4.1",
+    "reviews": "1,784 Ratings",
+    "contact": [
+      "07383769350"
+    ]
+  },
+  {
+    "name": "Central Lunch Home",
+    "address": "Fire Brigade Road Malad East, Mumbai",
+    "rating": "3.9",
+    "reviews": "151 Ratings",
+    "contact": [
+      "08147791274"
+    ]
+  },
+  {
+    "name": "Lucky Restaurant",
+    "address": "Lucky Building Goregaon East, Mumbai",
+    "rating": "3.9",
+    "reviews": "5,255 Ratings",
+    "contact": [
+      "09820006671",
+      "09820044479"
+    ]
+  },
+  {
+    "name": "Beijing's Shaolin Restaurant",
+    "address": "Central Avenue Road Powai, Mumbai",
+    "rating": "3.7",
+    "reviews": "609 Ratings",
+    "contact": [
+      "08867828640"
+    ]
+  }
+]
