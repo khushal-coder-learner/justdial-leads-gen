@@ -139,7 +139,7 @@ Enable:
 - Managing Python project structure
 
 ## 📜 License
-This repository is licensed under the MIT License – you are free to modify and reuse the code for educational purposes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
