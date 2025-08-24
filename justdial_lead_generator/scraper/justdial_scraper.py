@@ -2,7 +2,7 @@
 
 """JustDial Scraper (with anti-bot driver setup)."""
 
-from scraper.logger import logger
+from justdial_lead_generator.scraper.logger import logger
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By

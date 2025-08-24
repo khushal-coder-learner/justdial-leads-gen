@@ -1,0 +1,455 @@
+[
+  {
+    "name": "Royal Dining Bar",
+    "address": "Jb Nagar-andheri East, Mumbai",
+    "rating": "4.0",
+    "reviews": "1,250 Ratings",
+    "contact": [
+      "09845166358"
+    ]
+  },
+  {
+    "name": "New Ajwa Family Restaurant",
+    "address": "Marol Military Road Andheri East, Mumbai",
+    "rating": "4.0",
+    "reviews": "1,878 Ratings",
+    "contact": [
+      "08197414137"
+    ]
+  },
+  {
+    "name": "Yasin's Food Inn",
+    "address": "Lokhandwala Complex-andheri West, Mumbai",
+    "rating": "3.9",
+    "reviews": "15,980 Ratings",
+    "contact": [
+      "09035264703"
+    ]
+  },
+  {
+    "name": "Sanaya Dhaba",
+    "address": "Highway Towards Virar Mira Road East, Thane",
+    "rating": "4.7",
+    "reviews": "8,896 Ratings",
+    "contact": [
+      "08460396893"
+    ]
+  },
+  {
+    "name": "Raju Champaran Meat House",
+    "address": "Andheri Kurla Road Andheri East, Mumbai",
+    "rating": "3.6",
+    "reviews": "267 Ratings",
+    "contact": [
+      "08460479941"
+    ]
+  },
+  {
+    "name": "Annaleela Veg Wonders",
+    "address": "Bellasis Road Mumbai Central, Mumbai",
+    "rating": "3.9",
+    "reviews": "1,825 Ratings",
+    "contact": [
+      "07947434851"
+    ]
+  },
+  {
+    "name": "Shahi Restaurant",
+    "address": "SHEETAL NAGAR-MIRA ROAD EAST, Thane",
+    "rating": "3.9",
+    "reviews": "5,939 Ratings",
+    "contact": [
+      "09740301973"
+    ]
+  },
+  {
+    "name": "Hotell Ahura",
+    "address": "Mumbai Ahmdabad Highway Dhundalwadi, Talasari",
+    "rating": "4.8",
+    "reviews": "590 Ratings",
+    "contact": [
+      "09725508922"
+    ]
+  },
+  {
+    "name": "Canara Bar & Restaurant",
+    "address": "Jerbai Wadia Marg Parel, Mumbai",
+    "rating": "4.0",
+    "reviews": "1,818 Ratings",
+    "contact": [
+      "09845225754"
+    ]
+  },
+  {
+    "name": "Vaishali Refreshment",
+    "address": "Aarey Road Goregaon East, Mumbai",
+    "rating": "3.9",
+    "reviews": "346 Ratings",
+    "contact": [
+      "09724261049"
+    ]
+  },
+  {
+    "name": "Baithak With Huma's Kitchen",
+    "address": "Wadar Bhavan D-3 Sanpada Sector 16, Navi Mumbai",
+    "rating": "4.4",
+    "reviews": "223 Ratings",
+    "contact": [
+      "09972914145"
+    ]
+  },
+  {
+    "name": "Cafe Alif",
+    "address": "S V Road Jogeshwari West, Mumbai",
+    "rating": "4.1",
+    "reviews": "3,800 Ratings",
+    "contact": [
+      "09036649315"
+    ]
+  },
+  {
+    "name": "Afzal Mao Restaurant",
+    "address": "Carnac Road Masjid Bunder, Mumbai",
+    "rating": "4.0",
+    "reviews": "473 Ratings",
+    "contact": [
+      "09972349574"
+    ]
+  },
+  {
+    "name": "Cafe Food Inn",
+    "address": "Link Road Malad West, Mumbai",
+    "rating": "4.2",
+    "reviews": "823 Ratings",
+    "contact": [
+      "07947111105"
+    ]
+  },
+  {
+    "name": "Adarsh Family Restaurant & Bar",
+    "address": "Shop No 23 Kopar Khairane, Navi Mumbai",
+    "rating": "3.9",
+    "reviews": "1,463 Ratings",
+    "contact": [
+      "09845231601"
+    ]
+  },
+  {
+    "name": "Farmhouse Rooftop Lounge",
+    "address": "Sativali-Vasai East, Palghar",
+    "rating": "4.1",
+    "reviews": "1,232 Ratings",
+    "contact": [
+      "09972305690"
+    ]
+  },
+  {
+    "name": "Seven Hills Hotel Restaurant & Bar",
+    "address": "JVPD Scheme-Juhu, Mumbai",
+    "rating": "3.9",
+    "reviews": "1,406 Ratings",
+    "contact": [
+      "07947138791"
+    ]
+  },
+  {
+    "name": "Tisai Family Restaurant",
+    "address": "Datiwali Road Diva, Thane",
+    "rating": "4.7",
+    "reviews": "257 Ratings",
+    "contact": [
+      "09054058614"
+    ]
+  },
+  {
+    "name": "New Sahil Veg Non Veg Restaurant",
+    "address": "Balu Dayare Chowk Badlapur, Thane",
+    "rating": "3.6",
+    "reviews": "414 Ratings",
+    "contact": [
+      "07942695475"
+    ]
+  },
+  {
+    "name": "Navarathna Restaurant",
+    "address": "Kurla Andheri Road Sakinaka, Mumbai",
+    "rating": "3.6",
+    "reviews": "387 Ratings",
+    "contact": [
+      "09035645400"
+    ]
+  },
+  {
+    "name": "Royal Family Restaurant",
+    "address": "Nawroji Hill Road Sandhurst Road, Mumbai",
+    "rating": "4.7",
+    "reviews": "42 Ratings",
+    "contact": [
+      "08147030419"
+    ]
+  },
+  {
+    "name": "Sufi Darbar Restaurant",
+    "address": "Khairani Road Sakinaka, Mumbai",
+    "rating": "4.0",
+    "reviews": "304 Ratings",
+    "contact": [
+      "09972419586"
+    ]
+  },
+  {
+    "name": "Hotel Dream Life",
+    "address": "Vikramgad Jawahar Road Vikramgad, Palghar",
+    "rating": "3.2",
+    "reviews": "5 Ratings",
+    "contact": [
+      "08105619652"
+    ]
+  },
+  {
+    "name": "Hotel Sai Dhaba",
+    "address": "Sai Dhaba Kalyan West, Kalyan",
+    "rating": "3.6",
+    "reviews": "1,520 Ratings",
+    "contact": [
+      "07041620314"
+    ]
+  },
+  {
+    "name": "Al Nizami Darbar",
+    "address": "Marol Airport Road Andheri East, Mumbai",
+    "rating": "4.7",
+    "reviews": "2,839 Ratings",
+    "contact": [
+      "09972363374"
+    ]
+  },
+  {
+    "name": "Hotel Sai Mahadev",
+    "address": "KHADAKPADA-KALYAN WEST, Kalyan",
+    "rating": "3.6",
+    "reviews": "3,740 Ratings",
+    "contact": [
+      "07487914332"
+    ]
+  },
+  {
+    "name": "Alif Dhaba",
+    "address": "Vasai East, Palghar",
+    "rating": "4.1",
+    "reviews": "2,735 Ratings",
+    "contact": [
+      "09972272698"
+    ]
+  },
+  {
+    "name": "Monopoly Restaurant and Catering",
+    "address": "S V Road Borivali West, Mumbai",
+    "rating": "4.0",
+    "reviews": "2,724 Ratings",
+    "contact": [
+      "09845465850"
+    ]
+  },
+  {
+    "name": "Club 7",
+    "address": "Taki Road Nalasopara East, Palghar",
+    "rating": "4.1",
+    "reviews": "475 Ratings",
+    "contact": [
+      "09035223824"
+    ]
+  },
+  {
+    "name": "Shawaya Dhaba",
+    "address": "Mumbai Nashik Highway Bhiwandi City, Bhiwandi",
+    "rating": "4.1",
+    "reviews": "9,369 Ratings",
+    "contact": [
+      "09845260098"
+    ]
+  },
+  {
+    "name": "Raju's Kitchen - Veg Restaurant",
+    "address": "Kakaji Nagar Goregaon West, Mumbai",
+    "rating": "4.7",
+    "reviews": "219 Ratings",
+    "contact": [
+      "09054898209"
+    ]
+  },
+  {
+    "name": "Hotel Jagdamb",
+    "address": "Khoni-Taloja MIDC Road Chirad, Thane",
+    "rating": "4.0",
+    "reviews": "136 Ratings",
+    "contact": [
+      "08904982587"
+    ]
+  },
+  {
+    "name": "Raju Champaran Meat House",
+    "address": "New Link Road Andheri West, Mumbai",
+    "rating": "4.3",
+    "reviews": "22 Ratings",
+    "contact": [
+      "08460236463"
+    ]
+  },
+  {
+    "name": "Hotel Jyoti Family Restaurant",
+    "address": "Old Link Road Kandivali West, Mumbai",
+    "rating": "4.2",
+    "reviews": "134 Ratings",
+    "contact": [
+      "08971390396"
+    ]
+  },
+  {
+    "name": "Aagri Tadka Family Restaurant and Bar",
+    "address": "Near Ramsheth Thakur Sports Complex Ulwe, Navi Mumbai",
+    "rating": "4.0",
+    "reviews": "819 Ratings",
+    "contact": [
+      "08401955798"
+    ]
+  },
+  {
+    "name": "Hotel Apple's",
+    "address": "Haloli Manor, Palghar",
+    "rating": "3.8",
+    "reviews": "1,062 Ratings",
+    "contact": [
+      "07942691115"
+    ]
+  },
+  {
+    "name": "Sapre & Sons Restaurant",
+    "address": "Arey Road Goregaon West, Mumbai",
+    "rating": "4.2",
+    "reviews": "2,162 Ratings",
+    "contact": [
+      "06366433387"
+    ]
+  },
+  {
+    "name": "Mao Family Restaurant",
+    "address": "Lohar Chawl Kalbadevi, Mumbai",
+    "rating": "4.2",
+    "reviews": "9,846 Ratings",
+    "contact": [
+      "09845262099"
+    ]
+  },
+  {
+    "name": "Rosh & Ron Restaurant",
+    "address": "Abdul Hamid Road Malad West, Mumbai",
+    "rating": "4.0",
+    "reviews": "2,111 Ratings",
+    "contact": [
+      "07208462154",
+      "09892203511",
+      "07208462150",
+      "09892583585"
+    ]
+  },
+  {
+    "name": "The Koli Treat Dhaba",
+    "address": "Marve Road Malad West, Mumbai",
+    "rating": "3.9",
+    "reviews": "422 Ratings",
+    "contact": [
+      "07947429889"
+    ]
+  },
+  {
+    "name": "Up & Down The Lounge & Sports Bar",
+    "address": "Reena Auto Garage Malad West, Mumbai",
+    "rating": "4.0",
+    "reviews": "124 Ratings",
+    "contact": [
+      "07947412738"
+    ]
+  },
+  {
+    "name": "Shivam Chinese Corner",
+    "address": "Ramdev Park Road Mira Road East, Thane",
+    "rating": "4.3",
+    "reviews": "25 Ratings",
+    "contact": [
+      "08904599783"
+    ]
+  },
+  {
+    "name": "Hotel Aashirwad Multicuisine Family Restaurant",
+    "address": "I C Colony Borivali West, Mumbai",
+    "rating": "3.9",
+    "reviews": "1,700 Ratings",
+    "contact": [
+      "07947435170"
+    ]
+  },
+  {
+    "name": "Mangalore Kitchen",
+    "address": "Nana Chowk Grant Road, Mumbai",
+    "rating": "3.3",
+    "reviews": "29 Ratings",
+    "contact": [
+      "07942679154"
+    ]
+  },
+  {
+    "name": "Afzal's Mao Family Restaurant",
+    "address": "Shivdas Champsi Marg Mazgaon, Mumbai",
+    "rating": "4.1",
+    "reviews": "15,524 Ratings",
+    "contact": [
+      "09036652962"
+    ]
+  },
+  {
+    "name": "Taste Of Malabar",
+    "address": "Janmbhumi Marg Fort, Mumbai",
+    "rating": "4.1",
+    "reviews": "2,170 Ratings",
+    "contact": [
+      "09845466492"
+    ]
+  },
+  {
+    "name": "Hotel Radha Krishna Veg & Non Veg",
+    "address": "Raghunath Nagar Thane West, Thane",
+    "rating": "4.0",
+    "reviews": "125 Ratings",
+    "contact": [
+      "07947124599"
+    ]
+  },
+  {
+    "name": "Hotel Infinity Inn LLP Care Of K D Residency",
+    "address": "Barave Gaon Kalyan West, Kalyan",
+    "rating": "5.0",
+    "reviews": "2 Ratings",
+    "contact": [
+      "09845257992"
+    ]
+  },
+  {
+    "name": "Kings Lal Killa Dhaba",
+    "address": "Mumbra Bypass Road Mumbra, Thane",
+    "rating": "3.8",
+    "reviews": "6,390 Ratings",
+    "contact": [
+      "09845443303"
+    ]
+  },
+  {
+    "name": "Mao Family Restaurant",
+    "address": "Haji Ismail Building Shop Mahim, Mumbai",
+    "rating": "3.7",
+    "reviews": "1,455 Ratings",
+    "contact": [
+      "09972263960"
+    ]
+  }
+]

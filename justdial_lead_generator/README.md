@@ -31,7 +31,7 @@ The author assumes **no responsibility** for any misuse of this code.
 ## 📂 Project Structure
 
 ```text
-lead-generator/
+justdial_lead_generator/
 │
 ├── scraper/
 │ ├── main.py # Entry point
@@ -66,8 +66,8 @@ lead-generator/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/lead-generator.git
-cd lead-generator
+git clone https://github.com/your-username/justdial_lead_generator.git
+cd justdial_lead_generator
 ```
 
 ### 2️⃣Create Virtual Environment

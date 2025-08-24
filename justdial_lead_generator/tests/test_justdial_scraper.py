@@ -1,6 +1,6 @@
 import pytest
 from selenium.webdriver.common.by import By
-from scraper.justdial_scraper import JustDialScraper
+from justdial_lead_generator.scraper.justdial_scraper import JustDialScraper
 
 # Fixtures for pytest
 @pytest.fixture(scope='module')

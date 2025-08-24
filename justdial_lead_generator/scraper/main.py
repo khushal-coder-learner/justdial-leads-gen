@@ -1,5 +1,5 @@
-from scraper.justdial_scraper import JustDialScraper
-from sheets.sheets_service import GoogleSheetWriter  # your sheets class
+from justdial_lead_generator.scraper.justdial_scraper import JustDialScraper
+from justdial_lead_generator.sheets.sheets_service import GoogleSheetWriter  # your sheets class
 import json
 
 if __name__ == "__main__":
@@ -9,7 +9,7 @@ if __name__ == "__main__":
 
     # Google Sheets setup
     sheet_writer = GoogleSheetWriter(
-        creds_path="config/credentials.json",  # path to your creds JSON
+        creds_path="justdial_lead_generator/config/credentials.json",  # path to your creds JSON
         sheet_name="Justdial Leads"         # your sheet name
     )
 

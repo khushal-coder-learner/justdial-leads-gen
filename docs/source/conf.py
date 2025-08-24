@@ -5,10 +5,9 @@
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
-
 import os
 import sys
-sys.path.insert(0, os.path.abspath('../..'))  # adjust depending on your project structure
+sys.path.insert(0, os.path.abspath('../..'))  # ensures package is importable
 
 
 project = 'justdial-lead-generator'
@@ -20,11 +19,10 @@ release = '0.1'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-    'sphinx.ext.autodoc',
-    'sphinx.ext.napoleon',   # for Google/NumPy style docstrings
-    'sphinx.ext.viewcode',   # adds links to source code
+    "sphinx.ext.autodoc",
+    "sphinx.ext.napoleon",  # for Google/NumPy docstrings
+    "sphinx.ext.viewcode",  # links to source code
 ]
-
 
 templates_path = ['_templates']
 exclude_patterns = []
