@@ -30,7 +30,7 @@ class JustDialScraper:
         self.wait = WebDriverWait(driver, wait_time)
 
     @staticmethod
-    def create_chrome_driver(headless: bool = True, user_agent: str = None) -> webdriver.Chrome:
+    def create_chrome_driver(headless: bool = True, user_agent: str = None) -> webdriver.Chrome: # type: ignore
         """
         Create a Chrome WebDriver instance with anti-bot options.
 
